@@ -1,4 +1,8 @@
 # oci-hazelcast
+
+hazelcast-terraform-oracle-cloud  
+https://docs.google.com/spreadsheets/d/1RbTIA_83ZvYVCA9q7ybimA5zBD6a6jJ3Q5nRlpHB2WI/  
+
 This is a Terraform module that deploys [Hazelcast](https://hazelcast.org/) on [Oracle Cloud Infrastructure (OCI)](https://cloud.oracle.com/en_US/cloud-infrastructure). They are developed jointly by Oracle and Hazelcast.
   
 ## Prerequisites
